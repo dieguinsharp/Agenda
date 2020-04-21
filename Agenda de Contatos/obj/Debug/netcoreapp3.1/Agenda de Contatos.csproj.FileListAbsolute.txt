@@ -1,0 +1,11 @@
+C:\Users\Diego\source\repos\Agenda de Contatos\Agenda de Contatos\bin\Debug\netcoreapp3.1\Agenda de Contatos.exe
+C:\Users\Diego\source\repos\Agenda de Contatos\Agenda de Contatos\bin\Debug\netcoreapp3.1\Agenda de Contatos.deps.json
+C:\Users\Diego\source\repos\Agenda de Contatos\Agenda de Contatos\bin\Debug\netcoreapp3.1\Agenda de Contatos.runtimeconfig.json
+C:\Users\Diego\source\repos\Agenda de Contatos\Agenda de Contatos\bin\Debug\netcoreapp3.1\Agenda de Contatos.runtimeconfig.dev.json
+C:\Users\Diego\source\repos\Agenda de Contatos\Agenda de Contatos\bin\Debug\netcoreapp3.1\Agenda de Contatos.dll
+C:\Users\Diego\source\repos\Agenda de Contatos\Agenda de Contatos\bin\Debug\netcoreapp3.1\Agenda de Contatos.pdb
+C:\Users\Diego\source\repos\Agenda de Contatos\Agenda de Contatos\obj\Debug\netcoreapp3.1\Agenda de Contatos.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\Agenda de Contatos\Agenda de Contatos\obj\Debug\netcoreapp3.1\Agenda de Contatos.AssemblyInfo.cs
+C:\Users\Diego\source\repos\Agenda de Contatos\Agenda de Contatos\obj\Debug\netcoreapp3.1\Agenda de Contatos.dll
+C:\Users\Diego\source\repos\Agenda de Contatos\Agenda de Contatos\obj\Debug\netcoreapp3.1\Agenda de Contatos.pdb
+C:\Users\Diego\source\repos\Agenda de Contatos\Agenda de Contatos\obj\Debug\netcoreapp3.1\Agenda de Contatos.csprojAssemblyReference.cache
